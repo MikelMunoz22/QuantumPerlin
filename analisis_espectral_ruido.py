@@ -1,12 +1,4 @@
-# ==============================================================================
-# ANÁLISIS ESPECTRAL DE RUIDO BLANCO, PERLIN Y BROWNIANO FRACTAL (1D Y 2D)
-# ==============================================================================
-# Junta en un solo script lo que hacían generacion_reuido_perlinV4comparacion.py
-# (generación 1D/2D, FFT, coeficientes de mayor peso y su distribución sobre
-# MUCHAS muestras) y bueno.py (frecuencia en nº de ciclos, fase, ajuste de la
-# caída del espectro con alfa, beta y dB/octava, y dispersión de fases).
-# Con la misma semilla y los mismos parámetros da exactamente las mismas
-# muestras que esos dos scripts.
+# ============================================================================
 
 import os
 
